@@ -1,0 +1,13 @@
+1316034921
+Application	E:/Sites/ridemo/config/application.rb	  class Application 
+ApplicationController	E:/Sites/ridemo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	E:/Sites/ridemo/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	E:/Sites/ridemo/test/performance/browsing_test.rb	class BrowsingTest 
+Ridemo	E:/Sites/ridemo/config/application.rb	module Ridemo
+TestCase	E:/Sites/ridemo/test/test_helper.rb	class ActiveSupport::TestCase
+WelcomeController	E:/Sites/ridemo/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeControllerTest	E:/Sites/ridemo/test/functional/welcome_controller_test.rb	class WelcomeControllerTest 
+WelcomeHelper	E:/Sites/ridemo/app/helpers/welcome_helper.rb	module WelcomeHelper
+WelcomeHelperTest	E:/Sites/ridemo/test/unit/helpers/welcome_helper_test.rb	class WelcomeHelperTest 
+index	E:/Sites/ridemo/app/controllers/welcome_controller.rb	  def index
+test_homepage	E:/Sites/ridemo/test/performance/browsing_test.rb	  def test_homepage
